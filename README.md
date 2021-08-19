@@ -6,7 +6,7 @@
 <img height ="150em" src="https://github-readme-stats.vercel.app/api?username=thiagodarruda&theme=tokyonight&show_icons=true">
 
 <img height ="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodarruda&layout=compact">
-<br><hr>
+<hr>
 
 <!--
 **thiagodarruda/thiagodarruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,15 +24,12 @@ Here are some ideas to get you started:
 -->
 ## Contato
 
-
 <a href="https://www.linkedin.com/in/thiagodearruda1/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60">
 
 </a>
-<br><br>
 
 ## Linguagens
-
 <div>
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" align="center" heigth="50" width="60">
