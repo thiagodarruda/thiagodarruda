@@ -1,4 +1,3 @@
-# Olá !!   👋
 ## Me chamo Thiago, 
 ### 🌱 Sou estudante de analise e desenvolvimento de sistemas.<br>
 ### Curioso por tecnologia, aprendendo sobre Front End e nas horas vagas, desenvolvimento mobile.
