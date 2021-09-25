@@ -1,4 +1,4 @@
-## Olá ! Me chamo Thiago, 
+## Olá ! Me chamo Thiago, 🖐️
 ### 🌱 Sou estudante de analise e desenvolvimento de sistemas.<br>
 
 ### Curioso por tecnologia, aprendendo sobre desenvolvimento Front End, desenvolvimento mobile e Python. 
@@ -43,3 +43,4 @@ Here are some ideas to get you started:
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" align="center" heigth="50" width="50"/>
 
 </div>
+
