@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Contato
+## Contato 📫
 
 <a href="https://www.linkedin.com/in/thiagodearruda1/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="50">
 
 </a>
 
-## Linguagens
+## Linguagens 🔭
 <div>
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" align="center" heigth="50" width="50">
