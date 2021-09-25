@@ -41,7 +41,7 @@ Here are some ideas to get you started:
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" heigth="50" width="50">
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" align="center" heigth="50" width="50"/>
-</div>
 
-<hr>
-![Snake animation](https://github.com/thiagodarruda/thiagodarruda/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/thiagodarruda/thiagodarruda/blob/output/github-contribution-grid-snake.svg)
+
+</div>
