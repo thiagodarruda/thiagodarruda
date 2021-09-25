@@ -1,10 +1,10 @@
-## Me chamo Thiago, 
+## Olá ! Me chamo Thiago, 
 ### 🌱 Sou estudante de analise e desenvolvimento de sistemas.<br>
-### Curioso por tecnologia, aprendendo sobre Front End e nas horas vagas, desenvolvimento mobile.
+### Curioso por tecnologia, aprendendo sobre desenvolvimento Front End, desenvolvimento mobile e Python. Fique a vontade em navegar pelo meu repositório.
 <hr><br>
-<img height ="150em" src="https://github-readme-stats.vercel.app/api?username=thiagodarruda&theme=tokyonight&show_icons=true">
+<img height ="130em" src="https://github-readme-stats.vercel.app/api?username=thiagodarruda&theme=tokyonight&show_icons=true">
 
-<img height ="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodarruda&layout=compact">
+<img height ="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodarruda&layout=compact">
 <hr>
 
 <!--
@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" heigth="50" width="60">
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="center" heigth="50" width="60">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" heigth="50" width="60">
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" align="center" heigth="50" width="60"/>
 
 </div>
