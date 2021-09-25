@@ -3,11 +3,10 @@
 <<<<<<< HEAD
 ### Curioso por tecnologia, aprendendo sobre desenvolvimento Front End, desenvolvimento mobile e Python. 
 
->>>>>>> 8cac54148909ff73d40770bd8883315811ed7f13
 <hr><br>
-<img height ="130em" src="https://github-readme-stats.vercel.app/api?username=thiagodarruda&theme=tokyonight&show_icons=true">
+<img height ="150em" src="https://github-readme-stats.vercel.app/api?username=thiagodarruda&theme=tokyonight&show_icons=true">
 
-<img height ="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodarruda&layout=compact">
+<img height ="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodarruda&layout=compact">
 <hr>
 
 <!--
@@ -27,21 +26,21 @@ Here are some ideas to get you started:
 ## Contato
 
 <a href="https://www.linkedin.com/in/thiagodearruda1/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="50">
 
 </a>
 
 ## Linguagens
 <div>
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" align="center" heigth="50" width="60">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" align="center" heigth="50" width="50">
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" align="center" heigth="50" width="60">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" align="center" heigth="50" width="50">
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" heigth="50" width="60">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" heigth="50" width="50">
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" heigth="50" width="60">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" heigth="50" width="50">
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" align="center" heigth="50" width="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" align="center" heigth="50" width="50"/>
 
 </div>
