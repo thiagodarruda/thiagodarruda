@@ -1,7 +1,7 @@
 ## Olá ! Me chamo Thiago, 🖐️
 ### 🌱 Sou estudante de analise e desenvolvimento de sistemas.<br>
 
-### Curioso por tecnologia, aprendendo sobre desenvolvimento Front End, desenvolvimento mobile e Python. 
+### Curioso por tecnologia, aprendendo sobre desenvolvimento Front End, desenvolvimento mobile e PHP. 
 <hr><br>
 <img height ="150em" src="https://github-readme-stats.vercel.app/api?username=thiagodarruda&theme=tokyonight&show_icons=true">
 
@@ -38,10 +38,7 @@ Here are some ideas to get you started:
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" heigth="50" width="50">
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" heigth="50" width="50">
-
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" align="center" heigth="50" width="50"/>
-    
+       
    ![Snake animation](https://github.com/thiagodarruda/thiagodarruda/blob/output/github-contribution-grid-snake.svg)
 </div>
 
