@@ -1,7 +1,7 @@
 ## Olá ! Me chamo Thiago, 🖐️
 ### 🌱 Sou estudante de analise e desenvolvimento de sistemas.<br>
 
-### Curioso por tecnologia, aprendendo sobre desenvolvimento Front End, desenvolvimento mobile e PHP. 
+### Curioso por tecnologia, aprendendo sobre desenvolvimento Front End e desenvolvimento mobile. 
 <hr><br>
 <img height ="150em" src="https://github-readme-stats.vercel.app/api?username=thiagodarruda&theme=tokyonight&show_icons=true">
 
