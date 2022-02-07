@@ -1,7 +1,7 @@
 ## Olá ! Me chamo Thiago, 🖐️
 ### 🌱 Sou estudante de analise e desenvolvimento de sistemas.<br> 
 
-### Curioso por tecnologia, capixaba morando no Sul do Brasil. Atualmente aprendendo sobre um pouco sobre Front End e Python. 
+### Curioso por tecnologia, capixaba morando no Sul do Brasil. Atualmente aprendendo um pouco sobre Front End e Python. 
 <img height ="150em" src="https://github-readme-stats.vercel.app/api?username=thiagodarruda&theme=tokyonight&show_icons=true">
 
 <img height ="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodarruda&layout=compact">
