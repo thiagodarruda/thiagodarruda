@@ -1,7 +1,7 @@
 ## Olá ! Me chamo Thiago, 🖐️
 ### 🌱 Sou estudante de analise e desenvolvimento de sistemas.<br> 
 
-### Curioso por tecnologia, capixaba morando no Sul do Brasil. Atualmente aprendendo sobre Front End e Mobile. 
+### Curioso por tecnologia, capixaba morando no Sul do Brasil. Atualmente aprendendo sobre um pouco sobre Front End e Python. 
 <img height ="150em" src="https://github-readme-stats.vercel.app/api?username=thiagodarruda&theme=tokyonight&show_icons=true">
 
 <img height ="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodarruda&layout=compact">
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" heigth="50" width="50">
     
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" align="center" heigth="50" width="50">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" align="center" heigth="50" width="50">
 
 
        
