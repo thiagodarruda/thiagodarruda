@@ -1,7 +1,7 @@
 ## Olá ! Me chamo Thiago, 🖐️
 ### 🌱 Sou estudante de analise e desenvolvimento de sistemas.<br> 
 
-### Curioso por tecnologia e amante dos games, um capixaba morando na Bahia. Aprendendo sobre Front End . 
+### Curioso por tecnologia e amante dos games, um capixaba morando na Bahia. Focando agora os estudos em desenvolvimento mobile . 
 
 <img height ="150em" src="https://github-readme-stats.vercel.app/api?username=thiagodarruda&theme=tokyonight&show_icons=true">
 
