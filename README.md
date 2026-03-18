@@ -2,7 +2,7 @@
 ### 🌱 Formado em Analise e Desenvolvimento de Sistemas, pela Multivix-ES. <br>
 
 
-### Curioso por tecnologia e amante dos games, um capixaba morando na Bahia. 
+### Curioso por tecnologia e amante dos games, um capixaba morando em Minas
 <img height ="150em" src="https://github-readme-stats.vercel.app/api?username=thiagodarruda&theme=tokyonight&show_icons=true">
 
 <img height ="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodarruda&layout=compact">
